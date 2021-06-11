@@ -2,7 +2,7 @@
 
 ## Python
 ### CS 162 (Introduction to Computer Science II) - Portfolio Assignment
-Implementation of the board game Gess in Python 3
+Text-based implementation of the board game Gess in Python 3
 ### CS 261 (Data Structures) - Portfolio Assignment
 Implementation of Hash Map & Min Heap data structures in Python 3
 
