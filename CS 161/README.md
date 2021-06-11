@@ -1,4 +1,7 @@
-# Instructions for CS 161 Portfolio Project
+## FBoard.py
+Text based implementation of a two-player board game in Python 3.
+
+## Instructions for CS 161 Portfolio Project
 
 Write a class named FBoard for playing a game, where player x is trying to get her piece to corner square (7,7) and player o is trying to make it so player x doesn't have any legal moves.  It should have the following private data members:
 
