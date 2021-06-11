@@ -1,6 +1,8 @@
 # Code Samples
 
 ## Python
+### CS 161 (Introduction to Computer Science I) - Portfolio Assignment
+Text-based board game implementation in Python 3
 ### CS 162 (Introduction to Computer Science II) - Portfolio Assignment
 Text-based implementation of the board game Gess in Python 3
 ### CS 261 (Data Structures) - Portfolio Assignment
